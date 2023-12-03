@@ -1,6 +1,6 @@
 **Dog Breed Classification with Transfer Learning**
 
-Bu proje, köpek ırklarını tanımlamak için transfer öğrenme kullanarak bir derin öğrenme modeli içermektedir. Kaggle platformunda düzenlenen [Dog Breed Identification yarışması](https://www.kaggle.com/c/dog-breed-identification) için geliştirilmiştir.
+Bu proje, köpek ırklarını tanımlamak için transfer öğrenme kullanarak bir derin öğrenme modeli içermektedir. Kaggle platformunda düzenlenen GlobalAI Deep Learning Bootcamp için geliştirilmiştir.
 
 **Gereksinimler**
 
